@@ -1,0 +1,15 @@
+# Environments
+.env
+venv/
+__pycache__/
+
+# ML models
+*.pt
+
+# Storage
+*.jpg
+*.png
+*.mp4
+
+# Python
+*.pyc

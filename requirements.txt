@@ -1,0 +1,5 @@
+opencv-python
+ultralytics
+supabase
+python-dotenv
+numpy
